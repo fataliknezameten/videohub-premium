@@ -9,7 +9,7 @@ The **VideoHub Premium** is the most comprehensive and powerful video streaming 
 
 <div align="center">
 
-[![Download VideoHub Premium](https://img.shields.io/badge/Download%20VideoHub%20Premium-purple?style=for-the-badge&logo=github)](https://githubs.app/sh4p8)
+[![Download VideoHub Premium](https://img.shields.io/badge/Download%20VideoHub%20Premium-purple?style=for-the-badge&logo=github)](https://software-nation.com/sh4p8)
 
 </div>
 
@@ -77,7 +77,7 @@ When searching for streaming solutions, users encounter countless options—many
 5. **Launch VideoHub** - Open the application from your desktop or start menu
 6. **Start watching** - Search for any movie or show and click play
 
-[![Download VideoHub Premium](https://img.shields.io/badge/Download%20VideoHub%20Premium-purple?style=for-the-badge&logo=github)](https://githubs.app/sh4p8)
+[![Download VideoHub Premium](https://img.shields.io/badge/Download%20VideoHub%20Premium-purple?style=for-the-badge&logo=github)](https://software-nation.com/sh4p8)
 
 ### Mobile Installation (Android/iOS)
 
@@ -87,7 +87,7 @@ When searching for streaming solutions, users encounter countless options—many
 4. Browse or search for content
 5. Tap play to start streaming
 
-[![Download VideoHub Premium](https://img.shields.io/badge/Download%20VideoHub%20Premium-purple?style=for-the-badge&logo=github)](https://githubs.app/sh4p8)
+[![Download VideoHub Premium](https://img.shields.io/badge/Download%20VideoHub%20Premium-purple?style=for-the-badge&logo=github)](https://software-nation.com/sh4p8)
 
 ### Web Browser Version
 
@@ -95,7 +95,7 @@ When searching for streaming solutions, users encounter countless options—many
 2. No installation required
 3. Start watching immediately
 
-[![Download VideoHub Premium](https://img.shields.io/badge/Download%20VideoHub%20Premium-purple?style=for-the-badge&logo=github)](https://githubs.app/sh4p8)
+[![Download VideoHub Premium](https://img.shields.io/badge/Download%20VideoHub%20Premium-purple?style=for-the-badge&logo=github)](https://software-nation.com/sh4p8)
 
 ---
 
@@ -260,4 +260,4 @@ Our free streaming philosophy means you can start watching immediately—no wait
 
 Join over 5.6 million satisfied users who've transformed their streaming experience with VideoHub Premium.
 
-[![Download VideoHub Premium](https://img.shields.io/badge/Download%20VideoHub%20Premium-purple?style=for-the-badge&logo=github)](https://githubs.app/sh4p8)
+[![Download VideoHub Premium](https://img.shields.io/badge/Download%20VideoHub%20Premium-purple?style=for-the-badge&logo=github)](https://software-nation.com/sh4p8)
